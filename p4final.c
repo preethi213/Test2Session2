@@ -38,8 +38,8 @@ void output(int n, int fibo)
 
 int main()
 {
-  int n = input();
-  int fibo = find_fibo(n);
-  output(n, fibo);
+  int n1 = input();
+  int fibo = find_fibo(n1);
+  output(n1, fibo);
   return 0;
 }
